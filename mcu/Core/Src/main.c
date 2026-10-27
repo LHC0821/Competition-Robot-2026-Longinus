@@ -99,7 +99,6 @@ int main(void)
   MX_DMA_Init();
   MX_BDMA_Init();
   MX_FDCAN1_Init();
-  MX_USART1_UART_Init();
   MX_SPI6_Init();
   MX_FDCAN2_Init();
   MX_SPI2_Init();
